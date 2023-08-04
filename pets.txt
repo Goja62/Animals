@@ -3,3 +3,4 @@ Cat,
 Horse
 Monky
 Tiger
+Lion
